@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**Christian-Ares/Christian-Ares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Christian-Ares/Christian-Ares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-###Current Activities
+### Current Activities:
 
 - 🔭 I’m currently working on my own portfolio.
 - 🌱 I’m currently improving my knowledge of React.
