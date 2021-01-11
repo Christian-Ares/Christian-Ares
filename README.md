@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi my name's Christian, I'm a Junior Full Stack Developer! 
+
+### I decided to change my life from hostelry to Web Development, thanks to Ironhack, that's possible and now here I'm!
 
 <!--
 **Christian-Ares/Christian-Ares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Current Activities:
+## Current Activities:
 
 - 🔭 I’m currently working on my own portfolio.
 - 🌱 I’m currently improving my knowledge of React.
@@ -11,7 +13,9 @@
 - 💬 We can talk about code, but if you want to talk about animals or videogames, I'm in! 
 - 📫 How to reach me: Send me an email, or a DM on Linkedin!
 
-### My Top Used Languages:
+
+
+## My Top Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Ares)](https://github.com/Christian-Ares/github-readme-stats)
 
 ## My stats: 
