@@ -12,3 +12,5 @@
 - 📫 How to reach me: Send me an email, or a DM on Linkedin!
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Ares)](https://github.com/Christian-Ares/github-readme-stats)
+
