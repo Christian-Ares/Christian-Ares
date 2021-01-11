@@ -14,3 +14,7 @@
 ### My Top Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Ares)](https://github.com/Christian-Ares/github-readme-stats)
 
+## My stats: 
+
+![Christian's github stats](https://github-readme-stats.vercel.app/api?username=Christian-Ares&show_icons=true&theme=gotham)
+
