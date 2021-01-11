@@ -11,6 +11,6 @@
 - 💬 We can talk about code, but if you want to talk about animals or videogames, I'm in! 
 - 📫 How to reach me: Send me an email, or a DM on Linkedin!
 
-
+### My Top Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Ares)](https://github.com/Christian-Ares/github-readme-stats)
 
