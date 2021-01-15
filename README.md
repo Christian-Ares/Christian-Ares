@@ -1,8 +1,8 @@
-### Hi my name's Christian, I'm a Junior Full Stack Developer! 
+# Hi my name's Christian, I'm a Junior Full Stack Developer! 
 
-### I decided to change my life from hostelry to Web Development, thanks to Ironhack, that's possible and now here I'm!
+## I decided to change my life from hostelry to Web Development, thanks to Ironhack, that's possible and now here I'm!
 
-## You can check my Ironhack projects if you scroll down! 😉
+### You can check my Ironhack projects if you scroll down! 😉
 
 <!--
 **Christian-Ares/Christian-Ares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
