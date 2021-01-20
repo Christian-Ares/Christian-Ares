@@ -16,9 +16,15 @@
 - 📫 How to reach me: Send me an email, or a DM on Linkedin!
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-ares/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/christian-ares/" height="30" width="40" /></a>
 </p>
+
+<p align="left">
+<a href="christianaresvillan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="#" height="30" width="40" /></a>
+</p>
+
 
 ## My Top Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Ares)](https://github.com/Christian-Ares/github-readme-stats)
