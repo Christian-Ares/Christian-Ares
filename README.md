@@ -1,4 +1,4 @@
-# Hi my name's Christian, I'm a Junior Full Stack Developer! 
+# Hi my name's Christian, I'm a Full Stack Developer! 
 
 ## I decided to change my life from hostelry to Web Development, thanks to Ironhack, that's possible and now here I'm!
 
