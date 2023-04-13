@@ -9,9 +9,8 @@
 
 ## Current Activities:
 
-- 🔭 I’m currently working on projects for final clients.
-- 🌱 I’m currently improving my knowledge of React and Redux.
-- 👯 I’m would like to collaborate on projects where I can improve my knowlegde acquired in the bootcamp.
+- 🔭 I’m currently working on two projects, one for an external enterprise and the other is our own app.
+- 🌱 I’m currently learning Java and SpringBoot.
 - 💬 We can talk about code, but if you want to talk about animals or videogames, I'm in! 
 - 📫 How to reach me: Send me an email, or a DM on Linkedin!
 
